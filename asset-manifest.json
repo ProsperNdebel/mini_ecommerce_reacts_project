@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mini_ecommerce_reacts_project/static/css/main.a5e14362.css",
+    "main.js": "/mini_ecommerce_reacts_project/static/js/main.0acdb4bd.js",
+    "static/js/787.84d99ab4.chunk.js": "/mini_ecommerce_reacts_project/static/js/787.84d99ab4.chunk.js",
+    "static/media/imageProduct2.jpg": "/mini_ecommerce_reacts_project/static/media/imageProduct2.c8bb0aaccecdebb16596.jpg",
+    "static/media/imageProduct1.jpg": "/mini_ecommerce_reacts_project/static/media/imageProduct1.520cc50bd13955f55cb2.jpg",
+    "static/media/imageProduct3.jpg": "/mini_ecommerce_reacts_project/static/media/imageProduct3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/imageProduct4.jpg": "/mini_ecommerce_reacts_project/static/media/imageProduct4.9962862ef3eff6d65e5b.jpg",
+    "index.html": "/mini_ecommerce_reacts_project/index.html",
+    "static/media/icon-delete.svg": "/mini_ecommerce_reacts_project/static/media/icon-delete.6cb3a603e6c85e7aa5632bff2228a87b.svg",
+    "static/media/icon-cart.svg": "/mini_ecommerce_reacts_project/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
+    "static/media/icon-cart1.svg": "/mini_ecommerce_reacts_project/static/media/icon-cart1.5d69279c2cf158aff9a53d29ca318273.svg",
+    "main.a5e14362.css.map": "/mini_ecommerce_reacts_project/static/css/main.a5e14362.css.map",
+    "main.0acdb4bd.js.map": "/mini_ecommerce_reacts_project/static/js/main.0acdb4bd.js.map",
+    "787.84d99ab4.chunk.js.map": "/mini_ecommerce_reacts_project/static/js/787.84d99ab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5e14362.css",
+    "static/js/main.0acdb4bd.js"
+  ]
+}
