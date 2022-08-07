@@ -1,0 +1,24 @@
+.backcolor {
+  height: 100vh;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 0;
+}
+
+.centerPopUp {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.iconRemove {
+  color: #fff;
+  position: relative;
+  top: 150px;
+  left: 145px;
+  font-size: 15px;
+  color: hsl(26, 100%, 55%);
+  cursor: pointer;
+}

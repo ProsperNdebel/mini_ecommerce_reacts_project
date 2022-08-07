@@ -1,0 +1,28 @@
+.container {
+  background-color: #fff;
+  height: 150px;
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  position: absolute;
+  right: 50px;
+  top: 60px;
+  box-shadow: 0px 0px 20px; /*nfj*/
+}
+
+.cart {
+  text-align: left;
+  border-bottom: 0.5px solid hsl(220, 14%, 75%);
+  padding-bottom: 7px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.emptyCart {
+  color: hsl(220, 14%, 75%);
+  font-weight: 700;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

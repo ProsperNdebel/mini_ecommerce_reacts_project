@@ -1,0 +1,95 @@
+.wrapper {
+  text-align: left;
+}
+
+.brandName {
+  font-weight: 400px;
+  color: hsl(26, 100%, 55%);
+  margin-bottom: 10px;
+}
+
+.season {
+  margin-bottom: 15px;
+}
+
+.littleinfo {
+  margin-bottom: 10px;
+  color: hsl(220, 14%, 75%);
+}
+
+.priceInfo {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+  align-items: center;
+}
+
+.price {
+}
+
+.discount {
+  color: hsl(26, 100%, 55%);
+  font-weight: 400;
+  margin-left: 5px;
+  background-color: hsl(25, 100%, 94%);
+  border-radius: 5px;
+}
+
+.originalPrice {
+  margin-bottom: 25px;
+  font-size: 15px;
+  font-weight: bold;
+  color: hsl(220, 14%, 75%);
+}
+
+.cartRelated {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  width: 40%;
+  justify-content: center;
+  background-color: hsl(223, 64%, 98%);
+  height: 40px;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.colorMe {
+  color: hsl(26, 100%, 55%);
+}
+
+.right {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: hsl(26, 100%, 55%);
+  border-radius: 10px;
+  height: 40px;
+  cursor: pointer;
+}
+.right:hover {
+  opacity: 70%;
+}
+
+.right > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  font-weight: 600;
+}
+
+.addCart {
+  cursor: pointer;
+}
+.right:active {
+}

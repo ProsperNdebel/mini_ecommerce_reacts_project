@@ -1,0 +1,38 @@
+.images {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.largeImage {
+  height: 325px;
+}
+
+.topImage {
+  height: 300px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btnImages {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.btmImage {
+  height: 50px;
+  width: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btmImage:hover {
+  opacity: 60%;
+}
+
+.btmImage:active {
+  border: 2px solid orange;
+}
